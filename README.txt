@@ -2,7 +2,7 @@
 _/ ___\_  __ <   |  |\____ \   __\
 \  \___|  | \/\___  ||  |_> >  |  
  \___  >__|   / ____||   __/|__|  
-     \/       \/     |__|         by samuel
+     \/       \/     |__|         by 
 ==========================================================
 Thanks for purchasing the service "Max Account" for *0.00*
 Your Prodigy account has been UPDATED with the service!
